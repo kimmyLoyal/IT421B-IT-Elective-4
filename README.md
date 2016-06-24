@@ -9,7 +9,7 @@ This serves as my repository for the IT 421B Elective
  2 Distributed
 4. What is Git?
    Who inveted or developed Git?
-
+	* Linus Torvalds
 5. What is GitHub?
 
 6.  Definition of Terms
